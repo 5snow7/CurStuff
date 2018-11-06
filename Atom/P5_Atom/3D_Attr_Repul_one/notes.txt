@@ -1,0 +1,9 @@
+/*a cool pattern:
+p1=new planet(20,1);
+  sun1=new sun(300,500,30);
+  sun2=new sun(800,400,40);
+  darksun1=new sun(500,500,50);
+
+  do start 2 w/o second darksun2 being used.
+
+*/
